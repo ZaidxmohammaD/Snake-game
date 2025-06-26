@@ -14,6 +14,7 @@ A classic Snake game built using Python and Tkinter.
 
 ## ▶How to Run
 1. Ensure Python 3.x is installed.
-2. Run the file:
+2. Use the arrow keys to control the direction.
+3. Run the file:
    ```bash
    python snake_game.py
